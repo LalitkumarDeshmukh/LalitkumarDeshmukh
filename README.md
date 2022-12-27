@@ -1,4 +1,4 @@
-### Hey Bruhh 👋
+### Hey Wassup Bruhh <b style="transform:rotate(-180deg);">〽️</b>
 <p align="center"><img src="https://m.media-amazon.com/images/I/312MPWPRfKL.jpg" /></p>
 <!--
 **LalitkumarDeshmukh/LalitkumarDeshmukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
