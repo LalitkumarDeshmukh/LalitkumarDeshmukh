@@ -1,5 +1,5 @@
 ### Hey Bruhh 👋
-<centre><img src="https://m.media-amazon.com/images/I/312MPWPRfKL.jpg"></centre>
+<center><img src="https://m.media-amazon.com/images/I/312MPWPRfKL.jpg" /></center>
 <!--
 **LalitkumarDeshmukh/LalitkumarDeshmukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
